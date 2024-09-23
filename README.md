@@ -13,7 +13,9 @@ O projeto foi criado como parte avaliativa da disciplina de Fundamentos de Desen
 
 O projeto se consiste, basicamente, em uma tela de formulário de contato, como diz o nome.
 
-### Resultado da Caixa de Login- Completo
+### Resultado do Formulário de Contato- Completo
+
+![Resultado do projeto](img/result-form-contact.png)
 
 
 ### Estilização
@@ -35,10 +37,13 @@ O projeto foi estilizado usando o CSS3. Foi criando um arquivo chamado login.css
 
 ## Referência
 
-[Developer](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
-[Developer](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
-[Developer](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
-[Developer](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
+[Developer/HEIGHT](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
+
+[Developer/BACKGROUND-COLOR](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
+
+[Developer/WIDHT](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
+
+[Developer/COLOR](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
 
 ## Autor(a)
 
