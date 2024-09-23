@@ -27,6 +27,16 @@ O projeto foi estilizado usando o CSS3. Foi criando um arquivo chamado login.css
 * Width - O width é responsável por determinar a largura de um elemento.
 * Color - O color é responsável por definir a cor de um determinado texto.
 
+### Elementos do HTML
+
+* Main -
+* Form -
+* Label -
+* Input -
+* Br -
+* Textarea -
+* Button -
+
 ## Tecnologias
 
 * HTML5 
