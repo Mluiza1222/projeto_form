@@ -20,6 +20,8 @@ O projeto se consiste, basicamente, em uma tela de formulário de contato, como 
 
 ### Estilização
 
+![Elementos do CSS](img/elementos-CSS.png)
+
 O projeto foi estilizado usando o CSS3. Foi criando um arquivo chamado login.css. Nesse arquivo, constam conconfigurações de estilo apresentadas a seguir:
 
 * Height - O height é resposável por determinar a altura da área do conteudo do elemento.
