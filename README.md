@@ -29,6 +29,8 @@ O projeto foi estilizado usando o CSS3. Foi criando um arquivo chamado login.css
 
 ### Elementos do HTML
 
+![Elementos do HTML](img/elementos-html.png)
+
 * Main - O main define o conteúdo principal dentro do <body> em seu documento ou aplicação.
 * Form - O form é usada para criar um formulário onde os usuários podem inserir dados.
 * Label - O label representa uma legenda para um item em uma interface de usuário.
